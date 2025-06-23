@@ -236,6 +236,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center 30%;
     border-radius: 50%;
     border: 4px solid #00d4ff;
     box-shadow: 0 20px 40px rgba(0, 212, 255, 0.3);
@@ -463,7 +464,7 @@ section {
 
 .skill-bar {
     height: 8px;
-    background: rgba(255, 255, 255, 0.1);
+    background: #00d4ff;
     border-radius: 4px;
     overflow: hidden;
 }
